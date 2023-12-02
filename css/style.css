@@ -1,0 +1,71 @@
+.container{
+    margin-bottom: 50px;
+}
+.logo{
+    width: 130px;
+}
+.buynoow-btn{
+    color: white;
+    background: black;
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+.seeall{
+    color: #FFC71D;
+}
+.card{
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0px 1px 4px -1px;
+}
+.card-body{
+    text-align: center;
+}
+.card-img-top{
+    padding: 30px;
+}
+.perfume{
+    margin-bottom: 30px;
+}
+
+.bootom-section{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.categories{
+    text-align: center;
+}
+.border{
+    width: 150px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #FFC71D;
+    margin: auto;
+}
+.footer{
+    background: black;
+    color: white;
+    padding: 100px 200px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.inputfield{
+    border-radius: 10px;
+}
+.subscribe-btn{
+    color: white;
+    background: black;
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding: 5px 15px;
+    border: 1px solid gray;
+}
+
+.copyright{
+    text-align: center;
+}
